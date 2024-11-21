@@ -3,5 +3,5 @@
 Somos un equipo de apasionados por la tecnología, 
 comprometidos para generar soluciones de impacto
 
-# proyecto
+# proyecto RAG
 llama hackathon
